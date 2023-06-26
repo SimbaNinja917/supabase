@@ -1,2 +1,2 @@
-FROM supabase/postgrest
+FROM postgrest/postgrest
 COPY ./supabase /supabase
